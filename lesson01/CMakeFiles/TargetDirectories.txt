@@ -1,0 +1,3 @@
+/home/longgong/git-reps/cmake-learning/CMakeFiles/edit_cache.dir
+/home/longgong/git-reps/cmake-learning/CMakeFiles/rebuild_cache.dir
+/home/longgong/git-reps/cmake-learning/CMakeFiles/hello.dir
